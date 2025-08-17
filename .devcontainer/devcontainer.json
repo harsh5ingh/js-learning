@@ -34,4 +34,8 @@
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4262748940d799a88b280c88670b5e2211da9ab9
