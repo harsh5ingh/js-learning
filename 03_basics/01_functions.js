@@ -29,3 +29,8 @@ const result = addTwoNumbers(2, 5)
 
 //console.log("Result", result);
 
+function loginUserMessage(username){
+  return `${username} just logged in`
+}
+
+console.log(loginUserMessage("Harsh"))
